@@ -1,0 +1,11 @@
+Task You Have to follow:
+
+Country Wise Data Analysis on Covid-19 till date.
+Predict Day wise Covid-19 Cases.
+
+Time Series Data Analysis of Confirmed Cases till date on each Country (global).
+Time series Data Analysis on Death cases till date global.
+Time Series Data Analysis on Recovered Cases till date global.
+
+Predict Age Cases on Covid-19 Between Age group.
+Predict Highly affected Age Group on global.
